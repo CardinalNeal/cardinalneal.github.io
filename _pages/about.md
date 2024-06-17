@@ -18,8 +18,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Yichen Zheng, also known as Neal. I am passionate about technology, especially in the realms of AI, Deep Learning, and Large Language Models (LLMs). I hold a Master's degree in Electrical and Computer Engineering (ECE) from Carnegie Mellon University, where I focused on these cutting-edge fields.
+
+### Interests
+
+- **🎮 Pokemon**: A lifelong fan of Pokemon, I love exploring the vibrant and imaginative world of these fantastic creatures.
+- **🕹️ Video Games**: When I'm not diving deep into AI research, I enjoy playing video games, with League of Legends being my favorite.
+- **💃 Hip-hop Dance**: I have a strong passion for Hip-hop dance, which allows me to express creativity and stay active.
+
+### Personality
+
+- **🧠 MBTI**: As an ESFJ, I am known for being social, energetic, and deeply committed to my work and hobbies.
+
+### Projects and Research
+
+My primary focus lies in AI and Deep Learning, particularly in developing innovative solutions and advancements in LLMs. I am continually exploring new ways to harness the power of these technologies to solve complex problems and create impactful applications.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
