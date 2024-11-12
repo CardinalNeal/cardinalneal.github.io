@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time manage
+title: 时间贫穷，我们真的有利用好自己的时间吗？
 date: 2024-11-12 00:32:13
 description: how to manage time and happyness
 tags: 人际关系 时间管理
