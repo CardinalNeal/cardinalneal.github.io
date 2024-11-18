@@ -6,7 +6,7 @@
     "email": "yichenz3@alumni.cmu.edu",
     "phone": "(412) 430-1976",
     "url": "https://cardinalneal.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A Chinese-born Computer Scientist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,32 +17,20 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
+        "username": "CardinalNeal",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Techmation",
+      "position": "Software Development Engineer",
+      "url": "https://en.techmation.com.cn/",
+      "startDate": "2024-08-05",
+      "endDate": "2025-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -81,7 +69,7 @@
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "2022-03-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
@@ -162,9 +150,9 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "🌟"
     },
     {
       "language": "English",
