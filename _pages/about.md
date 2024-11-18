@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. +86 18067391039. yichenz3@alumni.cmu.edu. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. +86 18067391039. yichenz3@alumni.cmu.edu. Etc.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Shanghai, China</p>
+    <p>Ningbo, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,12 +23,15 @@ Hello! I'm Yichen Zheng, also known as Neal. I am passionate about technology, e
 ### Interests
 
 - **🎮 Pokemon**: A lifelong fan of Pokemon, I love exploring the vibrant and imaginative world of these fantastic creatures.
-- **🕹️ Video Games**: When I'm not diving deep into AI research, I enjoy playing video games, with League of Legends being my favorite.
+- **🕹️ Video Games**: Besides my passion for AI research, I find joy in playing video games, with League of Legends being a particular favorite. I also enjoy playing Teamfight Tactics (TFT) within the League of Legends universe and occasionally engage in the strategic card game Pokémon Trading Card Game (PTCG).
 - **💃 Hip-hop Dance**: I have a strong passion for Hip-hop dance, which allows me to stay active.
+- **🎲 Board Games and Script Murder (剧本杀)**: I'm a fan of board games and the immersive world of script murder, which allows me to exercise my strategic thinking and storytelling abilities.
+- **🌟 Sharing and Learning**: I love to share valuable finds, from game guilds and educational courses to practical tools and insights from books, fostering a community of learning and growth.
 
 ### Personality
 
 - **🧠 MBTI**: As an ESFJ, I am known for being social, energetic, and deeply committed to my work and hobbies.
+- **♌ Astrology**: Leo🦁, known for my leadership qualities, creativity, and warm-hearted nature.
 
 ### Projects and Research
 
