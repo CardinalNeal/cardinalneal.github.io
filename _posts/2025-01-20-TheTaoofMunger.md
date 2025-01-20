@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Time manage
+title: 芒格之道：如何跨学科整合，形成多元思维模型
 date: 2025-01-20 10:32:13
-description: How to Integrate Across Disciplines and Form Multidimensional Thinking Models. 如何跨学科整合，形成多元思维模型
-tags: 思维模型 时间管理
+description: How to Integrate Across Disciplines and Form Multidimensional Thinking Models.
+tags: 思维模型 投资
 categories: Life Time
 tabs: true
 ---
@@ -16,6 +16,7 @@ tabs: true
 # 芒格之道
 
 Keywords： 投资、生意、巴菲特、风险、投行、股东、金融、收购、机会、指数基金、思维模型、安全边际、机会成本
+
 分类: 阅读笔记
 ---
 
