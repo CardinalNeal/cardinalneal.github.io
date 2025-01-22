@@ -87,7 +87,18 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-01-20-TheTaoofMunger/";
+          window.location.href = "/blog/2025/2018-12-22-distill/";
+        
+      },
+    },{id: "post-芒格之道-如何跨学科整合-形成多元思维模型",
+      
+        title: "芒格之道：如何跨学科整合，形成多元思维模型",
+      
+      description: "How to Integrate Across Disciplines and Form Multidimensional Thinking Models.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/TheTaoofMunger/";
         
       },
     },{id: "post-a-post-with-image-galleries",
@@ -374,17 +385,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/diagrams/";
-        
-      },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/distill/";
         
       },
     },{id: "post-a-post-with-github-metadata",
