@@ -79,15 +79,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-芒格之道-如何跨学科整合-形成多元思维模型",
+            },{id: "post-",
       
-        title: "芒格之道：如何跨学科整合，形成多元思维模型",
+        title: "",
       
-      description: "How to Integrate Across Disciplines and Form Multidimensional Thinking Models.",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/TheTaoofMunger/";
+          window.location.href = "/blog/2025/2025-01-20-TheTaoofMunger/";
         
       },
     },{id: "post-a-post-with-image-galleries",
