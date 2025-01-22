@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: 芒格之道：如何跨学科整合，形成多元思维模型
 date: 2025-01-20 10:32:13
 description: How to Integrate Across Disciplines and Form Multidimensional Thinking Models.
