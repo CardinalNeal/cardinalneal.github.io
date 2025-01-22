@@ -1,60 +1,61 @@
 {
   "basics": {
-    "name": "Yichen Zheng",
+    "name": "Albert Einstein",
     "label": "Scientist",
     "image": "",
-    "email": "yichenz3@alumni.cmu.edu",
-    "phone": "(412) 430-1976",
-    "url": "https://cardinalneal.github.io/",
-    "summary": "A Chinese-born Computer Scientist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "Ningbo",
-      "countryCode": "CN",
-      "region": "ZheJiang"
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "CardinalNeal",
+        "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Techmation",
-      "position": "Software Development Engineer",
-      "url": "https://en.techmation.com.cn/",
-      "startDate": "2024-08-05",
-      "endDate": "2025-01-01",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
   "education": [
     {
-      "institution": "Carnegie Mellon University",
-      "location": "Pittsburgh, PA",
-      "url": "https://www.cmu.edu/",
-      "area": "Software Development; DeepLearning Research",
-      "studyType": "Master",
-      "startDate": "2022-08-30",
-      "endDate": "2024-05-10",
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
       "score": "10",
-      "courses": ["Intro to DeepLearning", "Foundation of Computer System", "Advance DeepLearning", "DeepLearning System", "LargeLanguageModel System", "Privacy Foundation", "Adversarial MachineLearning"]
-    },
-    {
-      "institution": "Rensselaer Polytechnic Institute",
-      "location": "Troy, NY",
-      "url": "https://www.cmu.edu/",
-      "area": "Computer Sciense",
-      "studyType": "Bachelor",
-      "startDate": "2018-08-29",
-      "endDate": "2022-05-10",
-      "score": "9",
-      "courses": ["Intro to Computer", "Operation System", "DataBase System"]
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -69,7 +70,7 @@
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2022-03-01",
+      "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
@@ -150,9 +151,9 @@
   ],
   "languages": [
     {
-      "language": "Mandarin",
+      "language": "German",
       "fluency": "Native speaker",
-      "icon": "🌟"
+      "icon": ""
     },
     {
       "language": "English",
