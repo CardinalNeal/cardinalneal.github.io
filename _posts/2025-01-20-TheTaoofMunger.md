@@ -10,13 +10,10 @@ featured: true
 
 toc:
   - name: 保险
-    - name: 保险浮存金 insurance float
   - name: 投资原则：优秀的管理团队
   - name: 陆军操点 - 四类人
   - name: 人生罗盘
   - name: 思维模型
-    - name: 专业化思维与跨学科思维
-    - name: 多元思维模型
   - name: 巴菲特的成功之道
   - name: 三个好的习惯
   - name: Last is not the least 最后总结
