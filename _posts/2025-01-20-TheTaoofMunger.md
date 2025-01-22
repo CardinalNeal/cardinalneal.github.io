@@ -7,47 +7,6 @@ tags: 思维模型 投资
 categories: Principles
 tabs: true
 featured: true
-mermaid:
-  enabled: true
-  zoomable: true
-code_diff: true
-map: true
-chart:
-  chartjs: true
-  echarts: true
-  vega_lite: true
-tikzjax: true
-typograms: true
-
-authors:
-  - name: Albert Einstein
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
-    affiliations:
-      name: IAS, Princeton
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-    affiliations:
-      name: IAS, Princeton
-  - name: Nathan Rosen
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-    affiliations:
-      name: IAS, Princeton
-
-bibliography: 2018-12-22-distill.bib
-
-toc:
-  - name: 保险
-    - name: 保险浮存金 insurance float
-  - name: 投资原则：优秀的管理团队
-  - name: 陆军操点 - 四类人
-  - name: 人生罗盘
-  - name: 思维模型
-    - name: 专业化思维与跨学科思维
-    - name: 多元思维模型
-  - name: 巴菲特的成功之道
-  - name: 三个好的习惯
-  - name: Last is not the least 最后总结
-  - name: 推荐书单
 ---
 
 
@@ -60,6 +19,7 @@ toc:
 Keywords: 投资、生意、巴菲特、风险、投行、股东、金融、收购、机会、指数基金、思维模型、安全边际、机会成本
 
 分类: 阅读笔记
+
 ---
 
 ## 保险
