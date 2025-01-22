@@ -1,11 +1,27 @@
 ---
-layout: post
+layout: distill
 title: 芒格之道：如何跨学科整合，形成多元思维模型
 date: 2025-01-20 10:32:13
 description: How to Integrate Across Disciplines and Form Multidimensional Thinking Models.
 tags: 思维模型 投资
-categories: Life Time
+categories: Principles
 tabs: true
+featured: true
+
+toc:
+  - name: 保险
+    - name: 保险浮存金 insurance float
+  - name: 投资原则：优秀的管理团队
+  - name: 陆军操点 - 四类人
+  - name: 人生罗盘
+  - name: 思维模型
+    - name: 专业化思维与跨学科思维
+    - name: 多元思维模型
+  - name: 巴菲特的成功之道
+  - name: 三个好的习惯
+  - name: Last is not the least 最后总结
+  - name: 推荐书单
+
 ---
 
 
@@ -15,7 +31,7 @@ tabs: true
 
 # 芒格之道
 
-Keywords： 投资、生意、巴菲特、风险、投行、股东、金融、收购、机会、指数基金、思维模型、安全边际、机会成本
+Keywords: 投资、生意、巴菲特、风险、投行、股东、金融、收购、机会、指数基金、思维模型、安全边际、机会成本
 
 分类: 阅读笔记
 ---
@@ -126,7 +142,7 @@ Keywords： 投资、生意、巴菲特、风险、投行、股东、金融、�
 
 现在当下年代，真正的专家都需要通过不同的角度去理解自己专业领域的事情，那才是真正的人才。而在这个过程中，你自然而然就积累了跨学科的思路了。
 
-### 多维多元思维模型
+### 多元思维模型
 
 普世智慧的第一条就是如果你们只是记得一些孤立的事物，试图把它们硬凑起来，那么你们就无法真正的理解任何东西。如果这些事物不在一个理论框架中相互联系，你们就无法把它派上用场。
 
@@ -154,7 +170,7 @@ Keywords： 投资、生意、巴菲特、风险、投行、股东、金融、�
     你想想在什么情况下可能出现最坏的组合，那你就会提前避开这个组合，然后 你的成功的可能性就提高了呀 【躲避失败，就会离成功更近】
     
 
-## 【两小时的这段我好像漏了】
+#【两小时的这段我好像漏了】
 
 ## **巴菲特的成功之道**
 
