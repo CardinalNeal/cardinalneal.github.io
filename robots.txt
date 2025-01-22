@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://cardinalneal.github.io/main/sitemap.xml
+User-agent: * Disallow: Sitemap: https://cardinalneal.github.io/sitemap.xml
