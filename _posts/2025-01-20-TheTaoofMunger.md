@@ -6,7 +6,6 @@ description: How to Integrate Across Disciplines and Form Multidimensional Think
 tags: 思维模型 投资
 categories: Principles
 tabs: true
-featured: true
 
 toc:
   - name: 保险
@@ -21,7 +20,6 @@ toc:
   - name: 三个好的习惯
   - name: Last is not the least 最后总结
   - name: 推荐书单
-
 ---
 
 
