@@ -79,15 +79,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-芒格之道-如何跨学科整合-形成多元思维模型",
+            },{id: "post-",
       
-        title: "芒格之道：如何跨学科整合，形成多元思维模型",
+        title: "",
       
-      description: "How to Integrate Across Disciplines and Form Multidimensional Thinking Models.",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/TheTaoofMunger/";
+          window.location.href = "/blog/2025/2025-01-20-TheTaoofMunger/";
         
       },
     },{id: "post-a-post-with-image-galleries",
@@ -472,8 +472,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-successfully-completed-my-master-s-degree-at-carnegie-mellon-university-sparkles-smile",
+          title: 'Successfully completed my Master’s degree at Carnegie Mellon University!  :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
