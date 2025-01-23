@@ -33,8 +33,13 @@ authors:
       name: 作者所属机构
 bibliography: 参考文献.bib
 toc:
-  - name: 目录 一定要markdown有的
-    - name: 子目录
+  sidebar: left  # only for post layout
+
+toc:
+  - name: Equations  # only for distill layout, and no subsections
+
 ---
 ```
+
+
 

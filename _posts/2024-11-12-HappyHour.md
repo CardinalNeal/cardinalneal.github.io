@@ -6,6 +6,8 @@ description: how to manage time and happyness
 tags: 人际关系 时间管理
 categories: Principles
 tabs: true
+toc:
+  sidebar: left
 ---
 
 # **时间贫穷，我们真的有利用好自己的时间吗？**

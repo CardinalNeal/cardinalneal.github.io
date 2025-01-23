@@ -10,7 +10,7 @@
 email: yichenz3@alumni.cmu.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: CardinalNeal # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
@@ -37,15 +37,20 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # stackoverflow_id: # your stackoverflow id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: assets/img/wechat-qr.png # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
 # x_username: # your X handle
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: cardinalneal # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: Custom Social
   url: https://www.alberteinstein.com/
+
+bilibili: # can be any name here other than the ones already defined above
+  logo: assets/img/bilibili.svg # can be png, svg, jpg
+  title: bilibili
+  url: https://space.bilibili.com/217995452
