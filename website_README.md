@@ -37,7 +37,6 @@ toc:
 
 toc:
   - name: Equations  # only for distill layout, and no subsections
-
 ---
 ```
 
