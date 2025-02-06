@@ -581,18 +581,18 @@ ninja.data = [{
           window.open("https://youtube.com/@cardinalneal", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
-        },
-      },{
         id: 'social-bilibili',
         title: 'Bilibili',
         section: 'Socials',
         handler: () => {
           window.open("https://space.bilibili.com/217995452", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
