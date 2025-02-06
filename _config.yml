@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Cardinal's Palace # the website title (if blank, full name will be used instead)
+title: Neal's Life Gallery # the website title (if blank, full name will be used instead)
 first_name: Yichen (Neal)
 middle_name: 
 last_name: Zheng
@@ -45,7 +45,7 @@ repo_trophies:
 
 rss_icon: true
 feed:
-  posts_limit: 13
+  posts_limit: 13  # RSS feed posts limit
 
 # -----------------------------------------------------------------------------
 # Layout

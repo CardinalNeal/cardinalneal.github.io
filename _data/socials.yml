@@ -45,12 +45,13 @@ wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image (e.
 # x_username: # your X handle
 youtube_id: cardinalneal # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
+bilibili: # can be any name here other than the ones already defined above
+  logo: assets/img/bilibili.svg # can be png, svg, jpg
+  title: bilibili
+  url: https://space.bilibili.com/217995452
+
 custom_social: # can be any name here other than the ones already defined above
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: Custom Social
   url: https://www.alberteinstein.com/
 
-bilibili: # can be any name here other than the ones already defined above
-  logo: assets/img/bilibili.svg # can be png, svg, jpg
-  title: bilibili
-  url: https://space.bilibili.com/217995452
