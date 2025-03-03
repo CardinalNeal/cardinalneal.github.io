@@ -75,8 +75,10 @@ toc:
 
 ## Architecture
 
-<div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DSV3R1_1.png" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSV3R1_1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 ### Multi-head Latent Attention(MLA)
@@ -92,8 +94,10 @@ Attention 本质上是计算 token 之间的 correlation
 
 由于 大部分大语言模型 都采用decoder 架构，所以 autoregressive 所以就是token by token, 相当于 运行decoder N 遍，KV cache 就是一个拿空间换时间的方法。 
 
-<div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DSV3R1_2.png" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSV3R1_2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 MLA 的基本思想
@@ -119,8 +123,10 @@ Decoupled Rotary Position Embedding (RoPE) - 一种 Position Embedding， 介于
 
 **MoE 架构**
 
-<div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DSV3R1_3.png" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSV3R1_3.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 MoE 架构：
@@ -130,8 +136,10 @@ MoE 架构：
 
 **问题**：在不同的Expert 中间 区分度不是特别大，且有可能会有重合冗余的
 
-<div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DSV3R1_4.png" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSV3R1_4.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 基于上述问题，DeepSeekMoE 架构 
@@ -192,8 +200,10 @@ $$
 2. **Cheap Verification (廉价验证)**：
     - 对每个猜测结果进行快速且低成本的验证，确保最终的预测结果准确。
 
-<div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/DSV3R1_5.png" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSV3R1_5.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 DeepSeek 采用了 把 Causal Chain 从 推理阶段 放进了 训练阶段，在训练过程中 增强了模型的远视能力，在推理过程中 则 直接拿掉
@@ -300,6 +310,6 @@ DeepSeek 的贡献不仅限于 R1，还包括以下几点：
 
 [**万字赏析 DeepSeek 创造之美：DeepSeek R1 是怎样炼成的？**](https://mp.weixin.qq.com/s/8ifsQ1eRJpOSHCrFAtAX0A)
 
-[万字赏析 DeepSeek 创造之美：DeepSeek R1 是怎样炼成的？丨荐读.pdf](/assets/pdfDeepSeekR1_Analysis_Tenction.pdf)
+[万字赏析 DeepSeek 创造之美：DeepSeek R1 是怎样炼成的？丨荐读.pdf](/assets/pdf/DeepSeekR1_Analysis_Tenction.pdf)
 
 [https://www.youtube.com/watch?v=axlQI7fGn_8&t=0s](https://www.youtube.com/watch?v=axlQI7fGn_8&t=0s)
