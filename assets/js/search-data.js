@@ -90,6 +90,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/DSVR/";
         
       },
+    },{id: "post-deepseek-v3-and-r1-论文解读笔记-技术版",
+      
+        title: "Deepseek V3 and R1 论文解读笔记 技术版",
+      
+      description: "Deep Tech-analysis for DeepSeek New Model V3 and R1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/DSV3R1/";
+        
+      },
     },{id: "post-2024年我的成长清单-2025我要这样布局",
       
         title: "2024年我的成长清单📝｜2025我要这样布局🔥",
