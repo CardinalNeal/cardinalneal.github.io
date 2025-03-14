@@ -1,8 +1,8 @@
 ---
-layout: distill
+layout: post
 title: 大模型的“幻觉”：是创意的火花还是认知的陷阱？
 date: 2025-03-12 21:30:13
-description: Deep Tech-analysis for DeepSeek New Model V3 & R1
+description: 探讨大语言模型（LLM）中的“幻觉”现象——它既能激发无限的创造力，也可能带来误导性的风险。本文深入分析幻觉的成因、影响以及如何在技术发展中找到平衡。
 tags: LLM
 categories: Tech
 
@@ -167,5 +167,5 @@ RAG是一种结合检索（Retrieval）和生成（Generation）的方法，旨�
 
 ## Related Article
 
-1. https://lilianweng.github.io/posts/2024-07-07-hallucination/
-2. https://mp.weixin.qq.com/s/zsK0XmDIZOsmBXLHnYJZrQ
+1. [**Extrinsic Hallucinations in LLMs**](https://lilianweng.github.io/posts/2024-07-07-hallucination/)
+2. [**万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？**](https://mp.weixin.qq.com/s/zsK0XmDIZOsmBXLHnYJZrQ)
