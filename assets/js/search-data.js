@@ -83,7 +83,7 @@ ninja.data = [{
       
         title: "大模型的“幻觉”：是创意的火花还是认知的陷阱？",
       
-      description: "Deep Tech-analysis for DeepSeek New Model V3 &amp; R1",
+      description: "探讨大语言模型（LLM）中的“幻觉”现象——它既能激发无限的创造力，也可能带来误导性的风险。本文深入分析幻觉的成因、影响以及如何在技术发展中找到平衡。",
       section: "Posts",
       handler: () => {
         
