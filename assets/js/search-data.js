@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-deepseek-v3-amp-r1-论文解读笔记-技术版",
+            },{id: "post-大模型的-幻觉-是创意的火花还是认知的陷阱",
+      
+        title: "大模型的“幻觉”：是创意的火花还是认知的陷阱？",
+      
+      description: "Deep Tech-analysis for DeepSeek New Model V3 &amp; R1",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Hallucinations/";
+        
+      },
+    },{id: "post-deepseek-v3-amp-r1-论文解读笔记-技术版",
       
         title: "Deepseek V3 &amp; R1 论文解读笔记 技术版",
       
