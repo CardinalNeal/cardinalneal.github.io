@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-大模型的-幻觉-是创意的火花还是认知的陷阱",
+            },{id: "post-暗黑育儿法-一个父亲的社会达尔文主义实践手记",
+      
+        title: "暗黑育儿法：一个父亲的社会达尔文主义实践手记",
+      
+      description: "当听到这期播客时，我发现自己长久以来的育儿理念突然有了系统性的表达——我们这类人育儿的核心从来不是培养&quot;快乐的孩子&quot;，而是完成&quot;家族的传承&quot;。在礼仪传统与时代变革的张力中，塑造具有家族DNA的下一代。",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MarriageAlgo/";
+        
+      },
+    },{id: "post-大模型的-幻觉-是创意的火花还是认知的陷阱",
       
         title: "大模型的“幻觉”：是创意的火花还是认知的陷阱？",
       
