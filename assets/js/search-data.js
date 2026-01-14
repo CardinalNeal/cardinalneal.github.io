@@ -79,15 +79,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-听播客这一年-这10期播客直接封神-2025",
       
-        title: "",
+        title: "听播客这一年，这10期播客直接封神（2025）",
       
-      description: "",
+      description: "今天给大家推荐10期2025年度我觉得最值得听的10期播客，每期播客的类型尽可能的不同类型。我是一个S值(mbti)的人，所以关注的话题可能更多是 自我提升 个人成长， 投资理财, 学习，人际关系，社会运作 等相关的话题。",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/2025-12-12-top10podcast_recommand_2025/";
+          window.location.href = "/blog/2025/top10podcast_recommand_2025/";
         
       },
     },{id: "post-效率革命-从企业管理到个人成长的5大实战方法论",
