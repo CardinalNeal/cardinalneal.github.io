@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-中美贸易拉锯战升级-供应链博弈下的经济暗流与个人应对策略",
+            },{id: "post-效率革命-从企业管理到个人成长的5大实战方法论",
+      
+        title: "效率革命：从企业管理到个人成长的5大实战方法论",
+      
+      description: "在这个信息爆炸、竞争白热化的时代，无论是企业还是个人，都在经历一场无声的淘汰赛。为什么效率突然成为了决定生存质量的核心竞争力？答案藏在两组被忽视的数据里",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/efficiency_revolution/";
+        
+      },
+    },{id: "post-中美贸易拉锯战升级-供应链博弈下的经济暗流与个人应对策略",
       
         title: "中美贸易拉锯战升级：供应链博弈下的经济暗流与个人应对策略",
       
