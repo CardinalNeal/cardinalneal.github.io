@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-效率革命-从企业管理到个人成长的5大实战方法论",
+            },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/2025-12-12-top10podcast_recommand_2025/";
+        
+      },
+    },{id: "post-效率革命-从企业管理到个人成长的5大实战方法论",
       
         title: "效率革命：从企业管理到个人成长的5大实战方法论",
       
